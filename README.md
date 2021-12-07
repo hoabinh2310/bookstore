@@ -1,1 +1,3 @@
-# bookstore
+# Online BookStore
+
+Web project 

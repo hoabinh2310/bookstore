@@ -1,0 +1,5 @@
+Django
+braintree
+whitenoise
+dj-database-url
+pillow
